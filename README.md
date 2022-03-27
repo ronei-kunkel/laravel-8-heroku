@@ -1,6 +1,6 @@
 ### To run locally
 
-1. you need php and composer previously installed ou your machine
+1. you need php and composer previously installed on your machine
 
 2. run `composer install` to install dependences
 
