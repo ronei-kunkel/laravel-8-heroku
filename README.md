@@ -10,11 +10,13 @@ done!
 
 ### To run in heroku:
 
-1. run: `php artisan key:generate --show`, copy it and paste into .env file into APP_KEY const
+1. run: `php artisan key:generate --show`, copy it and paste into .env file into APP_KEY variable
 
 2. set the same APP_KEY key and value into PATH_VARS on your heroku app
 
 3. connect your github repo into heroku on Deploy tab
+
+4. enable automatic deploys
 
 4. deploy branch master
 
