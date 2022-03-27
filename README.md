@@ -1,4 +1,4 @@
-### To run locally
+## To run locally
 
 1. you need php and composer previously installed on your machine
 
@@ -8,7 +8,7 @@
 
 done!
 
-### To run in heroku:
+## To run in heroku:
 
 1. run: `php artisan key:generate --show`, copy it and paste into .env file into APP_KEY variable
 
